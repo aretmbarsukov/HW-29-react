@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HW-29-react/static/css/main.dca7118a.css",
+    "main.js": "/HW-29-react/static/js/main.b99272e0.js",
+    "index.html": "/HW-29-react/index.html",
+    "main.dca7118a.css.map": "/HW-29-react/static/css/main.dca7118a.css.map",
+    "main.b99272e0.js.map": "/HW-29-react/static/js/main.b99272e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dca7118a.css",
+    "static/js/main.b99272e0.js"
+  ]
+}
