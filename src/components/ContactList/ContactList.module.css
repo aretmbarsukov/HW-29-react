@@ -1,0 +1,43 @@
+.list {
+  display: grid;
+  gap: 9px;
+  margin: 15px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.empty {
+  display: flex;
+  min-height: 215px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.emptyIcon {
+  display: grid;
+  width: 45px;
+  height: 45px;
+  place-items: center;
+  border: 1px solid #e9ede6;
+  border-radius: 15px;
+  background: #f7f9f5;
+  color: #79917c;
+  font-size: 19px;
+}
+
+.emptyTitle {
+  margin: 12px 0 4px;
+  color: #4c5b50;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.emptyText {
+  max-width: 230px;
+  margin: 0;
+  color: #9ba197;
+  font-size: 11px;
+  line-height: 1.6;
+}
