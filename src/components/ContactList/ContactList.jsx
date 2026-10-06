@@ -6,9 +6,6 @@ export const ContactList = ({ contacts }) => {
   if (contacts.length === 0) {
     return (
       <div className={styles.empty}>
-        <span className={styles.emptyIcon} aria-hidden="true">
-          ☎
-        </span>
         <p className={styles.emptyTitle}>Тут поки тихо</p>
         <p className={styles.emptyText}>
           Додай перший контакт або зміни пошуковий запит.
